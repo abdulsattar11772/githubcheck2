@@ -1,1 +1,1 @@
-pushing repository to git 1.0
+pushing repository to git 1.0.0
